@@ -7,7 +7,7 @@ PlayerConsole - Добавлять на ваш сервер возможност
 
 /console off - Выключить консоль
 
-/console reload - Перезагрузка конфига.
+<span style="color: green>/console reload - Перезагрузка конфига.</span>
 
 
 # Права:
