@@ -1,0 +1,8 @@
+name: PlayerConsole
+main: ru.brainstudio.console.Main
+author: BrainStudio
+version: 1.0
+commands:
+  console:
+    usage: /<command> on/off
+    description: Включить/Выключить консоль
